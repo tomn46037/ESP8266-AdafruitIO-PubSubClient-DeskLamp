@@ -5,7 +5,15 @@
 #include "WiFiPassword.h"
 #include "AdafruitIOKey.h"
 
+
+
+
+// EDIT THIS
 #define FEED_PATH "tomn46037/feeds/cube-"
+
+
+
+
 
 #define LIGHTS_ALL FEED_PATH"lights-all"
 #define COLOR_ALL FEED_PATH"color-all"
